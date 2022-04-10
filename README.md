@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @laprinia
-- 🌱 I’m currently learning ShaderLab & volumetric lighting
+- 🌱 I’m currently learning Compute Shaders 
 
