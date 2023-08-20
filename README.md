@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @laprinia
-- 🌱 I’m currently learning caustics & web responsive design
+- 🌱 I’m currently learning caustics & Redux
 
